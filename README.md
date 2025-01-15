@@ -67,7 +67,7 @@ Me chamo Rodrigo Torres Pinheiro, tenho 21 anos e sou natural de São Paulo, mas
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/rodrigo-tp/github-readme-stats)" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-tp&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 
